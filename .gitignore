@@ -1,0 +1,5 @@
+node_modules/
+.env
+*.log
+splitbuddy_github_key
+splitbuddy_github_key.pub
